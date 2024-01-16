@@ -1,16 +1,6 @@
-# Fitness-App-React-Native
+# Lean-Fit-Maker
 
-![Image](https://cdn.dribbble.com/userupload/11359073/file/original-65749ff36820139e272a60d6eb11b3eb.png?resize=1024x768)
-
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://www.youtube.com/playlist?list=PLKWMD009Q4qScuZtpIsr-LaLl5dbDQcKb" target="_blank">Fitness App in React Native (Expo Router, Reanimated)</a>
-    </p>
-    
-  </p>
-  
+https://github.com/Abishethvarman/LeanFitMaker/assets/57715922/9c41aec3-2df5-40e7-ab46-560340cb4dd7
 
 ## Get Started
 
